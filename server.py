@@ -1,8 +1,5 @@
-# server.py
 # Este archivo define el servidor MCP (Model Context Protocol).
 # Su función es exponer un conjunto de "herramientas" (tools) que un agente de IA
-# puede utilizar para interactuar con sistemas externos. En este caso, simula la
-# publicación en redes sociales.
 
 from mcp.server.fastmcp import FastMCP
 
